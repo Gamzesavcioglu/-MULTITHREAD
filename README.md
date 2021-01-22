@@ -1,2 +1,2 @@
 #  MULTITHREAD
- AVM’deki asansörlere gelen isteklerdeki yoğunluğu, multithread kullanarak diğer asansörlerle birlikte azaltmadır.
+ Amaç AVM’deki asansörlere gelen isteklerdeki yoğunluğu, multithread kullanarak diğer asansörlerle birlikte azaltmaktır.
