@@ -1,5 +1,5 @@
 #  MULTITHREAD
- Amaç AVM’deki asansörlere gelen isteklerdeki yoğunluğu, multithread kullanarak diğer asansörlerle birlikte azaltmaktır.
+
 
 • AVM’deki kat sayısı 5’tir.
 • Toplamda 5 adet asansör bulunmaktadır.
